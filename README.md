@@ -5,7 +5,7 @@ In this week's exercise you are asked to create a simple tool that converts temp
 one temperature-type to another and then classify those temperatures into specific temperature classes.
 
 After making your changes, you will need to upload your files to GitHub.
-The answers to the questions in this week's exercise should be given by modifying the document in places where asked or at the end of this document in the [section titled Answers](#answers).
+The answers to the questions in this week's exercise should be given by modifying the document in places where asked.
 
 - **Exercise 4 is due by the start of lecture on 3.10.**
 - Don't forget to check out [the hints for this week's exercise](https://geo-python.github.io/2018/lessons/L4/exercise-4-hints.html) if you're having trouble.
